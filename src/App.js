@@ -50,7 +50,7 @@ function App() {
               path="/"
               element={
                 <div className="App-welcome">
-                  <h1>Welcome</h1>
+                  <h1>Welcome CS516</h1>
                   <p>Please sign up or log in to continue.</p>
                 </div>
               }
